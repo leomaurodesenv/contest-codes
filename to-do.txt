@@ -1,0 +1,32 @@
+1904 - Odds and Evens 2.0
+https://www.urionlinejudge.com.br/judge/en/problems/view/1904
+1934 - Puzzle
+https://www.urionlinejudge.com.br/judge/en/problems/view/1934
+2021 - Christmas Lights
+https://www.urionlinejudge.com.br/judge/en/problems/view/2021
+1580 - Quid Est Veritas? Est Vir Qui Adest!
+https://www.urionlinejudge.com.br/judge/en/problems/view/1580
+
+10633 - Rare Easy Problem
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1574
+10673 - Play with Floor and Ceil
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1614
+10090 - Marbles
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1031
+948 - Fibonaccimal Base
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=889
+991 - Safe Salutations
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=932
+11728 - Alternate Task
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2828
+10140 - Prime Distance
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1081
+
+10003 - Cutting Sticks
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=944
+11517 - Exact Change
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2512
+
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=484
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=838
+https://www.urionlinejudge.com.br/judge/en/problems/view/1076
