@@ -20,7 +20,7 @@ ___
 ___   
    
 ## Also look ~  	
-* [License MIT](https://opensource.org/licenses/MIT)
-* Create by Leonardo Mauro (leo.mauro.desenv@gmail.com)
-* Git: [leomaurodesenv](https://github.com/leomaurodesenv/)
-* Site: [Portfolio](http://leonardomauro.com/portfolio/)
+- [License MIT](LICENSE)
+- Create by Leonardo Mauro (leo.mauro.desenv@gmail.com)
+- Git: [leomaurodesenv](https://github.com/leomaurodesenv/)
+- Site: [Portfolio](http://leonardomauro.com/portfolio/)
